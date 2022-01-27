@@ -1,6 +1,5 @@
 # Terraform_Resource_Creation
 
-#### Introduction
 
 1. What is [Terraform](https://www.terraform.io)?
 Terraform is an open-source infrastructure as code (IaC) tool that allows you to build, change, and version infrastructure safely and efficiently.
